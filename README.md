@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MarkARodriguez. ⚙️ Mechanical Engineer ⚙️ and Software Developer. 
-- 👀 I’m interested in Fintech and automated control of robots!
+- 👋 Hi, I’m @MarkARodriguez. ⚙️ Engineer ⚙️ and Software Developer. 
+- 👀 I’m interested in Fintech Blockchain
 - 🌱 I’m currently learning React and other front end tools. 
 - 💞️ I’m looking to collaborate :)
 - 📫 How to reach me ---> reach@markthe.engineer
