@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkARodriguez. Founder of DevSeas. We create software for business. 
+- 👋 Hi, I’m @MarkARodriguez. I am in stealth mode rn :) 
 
 <!---
 MarkARodriguez/MarkARodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
